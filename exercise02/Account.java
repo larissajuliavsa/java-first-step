@@ -1,6 +1,7 @@
+package exercise02;
 public class Account {
-  double saldo;
-  int agencia;
-  int numero;
-  String titular;
+  double balance;
+  int agency;
+  int number;
+  String holder;
 }
