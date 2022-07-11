@@ -1,3 +1,4 @@
+package exercise01;
 public class ElevatorFitter2 {
   public static void main(String args[]) {
     System.out.println("True or False?");

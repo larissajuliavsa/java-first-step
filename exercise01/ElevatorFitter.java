@@ -1,3 +1,4 @@
+package exercise01;
 public class ElevatorFitter {
   public static void main(String args[]) {
     int weightOfAPerson;

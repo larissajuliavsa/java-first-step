@@ -1,3 +1,4 @@
+package exercise01;
 public class Millionare {
   public static void main(String args[]) {
     double amountInAccount;
